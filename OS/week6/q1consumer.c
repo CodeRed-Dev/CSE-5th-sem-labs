@@ -5,7 +5,7 @@
 #include<limits.h>
 #include<sys/types.h>
 #include<sys/stat.h>
-#define FIFO_NAME "/tmp/my_fifo"
+#define FIFO_NAME "/tmp/raghav"
 
 int main()
 {
